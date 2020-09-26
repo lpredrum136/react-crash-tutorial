@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Go to [Henry Web Dev Youtube Channel](https://www.youtube.com/channel/UCUjMB5vQyVjmFZDCX4VR31w) for tutorial.
 
 ## Available Scripts
 
